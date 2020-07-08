@@ -2,7 +2,7 @@
 
 > OOP 面向对象编程
 
-[wiki上的解释](!https://en.wikipedia.org/wiki/Object-oriented_programming)
+[wiki上的解释](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 看完这个解释，你的脑海中会有这些词“class","object","instance","encapsulation","inheritance","polymorphism"，这些词的定义你也能从wiki中找到准确的描述。那么OOP就可以定义为使用这些概念进行设计/编码的一种方式。
 
@@ -29,7 +29,7 @@ OOP字面意义是“面向对象编程”，但是其中最重的一些部分�
 
 使用以上概念进行设计/编码的时候，要尽量遵循OOP下的设计原则（这些原则是为更好、更容易的实现理念而总结出的）:
 
-wiki解释： [OOP-SOLID-wiki](!https://en.wikipedia.org/wiki/SOLID)
+wiki解释： [OOP-SOLID-wiki](https://en.wikipedia.org/wiki/SOLID)
 
 一共是5条原则，Single-responsibility principle (srp) Open–closed principle(ocp) Liskov substitution principle(lsp) Interface segregation principle(isp) Dependency inversion principle(dip) ，但是我不打算全部讨论，只想说其中三个：
 
